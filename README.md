@@ -13,7 +13,7 @@ The entry point of the application features a polished, fully customized Netflix
 * **Navigation Toggle:** Includes a seamless toggle at the bottom (`Sign in now`) to switch effortlessly between the registration and login views.
 * **Backend Integration:** This form securely communicates with the backend API to handle user registration, credential validation, and session management.
 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/16017aa4-8ad1-4e8d-b6e5-c4f7cefea449" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/e661ef05-7a93-44dc-913e-d2b900aec999" />
 
 
 
